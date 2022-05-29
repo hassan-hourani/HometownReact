@@ -22,7 +22,7 @@ function App() {
       <h4>Enjoy shopping and people's kindness in this greenful city in the north-west of West Bank - Palestine.</h4>
       </div>
       <div className="middle-section">
-      <h3>Top three attractions to do at Qalqilya</h3>
+      <h3>Top three attractions at Qalqilya</h3>
       <div className="places-to-visit">
         <div className="fatih-mosque">
         <img src={fatihMosque}/>
